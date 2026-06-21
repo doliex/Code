@@ -37,7 +37,7 @@ def tinh_tb_mon(m):
 class VnEduMobileUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("vnEdu Mobile v10.8")
+        self.root.title("vnEdu Mobile v10.9")
         self.root.geometry("400x750")
         self.root.configure(bg="#f4f7f6")
         
